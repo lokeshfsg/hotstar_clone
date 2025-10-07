@@ -10,7 +10,7 @@ const MoviesByLanguage = () => {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:5400/getMoviesByLanguage/${language}`)
+      .get(`https://animaxapp-new-2.onrender.com/getMoviesByLanguage/${language}`)
       .then((response) => {
         console.log("API Response:", response.data); // Debugging
         if (Array.isArray(response.data.movieList)) {
