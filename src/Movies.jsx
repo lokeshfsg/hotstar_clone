@@ -21,9 +21,9 @@ const Movies = () => {
   const [selectedLanguage, setSelectedLanguage] = useState("");
 
   useEffect(() => {
-    let url = "http://localhost:5400/movies";
+    let url = "https://animaxapp-new-2.onrender.com/movies";
     if (selectedLanguage) {
-      url = `http://localhost:5400/getMoviesByLanguage/${selectedLanguage}`;
+      url = `https://animaxapp-new-2.onrender.com/getMoviesByLanguage/${selectedLanguage}`;
     }
     axios
       .get(url)
