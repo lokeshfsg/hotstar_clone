@@ -24,7 +24,7 @@ const MovieDetails = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    axios.get(`http://localhost:5400/movies/${id}`)
+    axios.get(`https://animaxapp-new-2.onrender.com/movies/${id}`)
       .then((response) => {
         // Support both { movie: {...} } and direct object
         if (response.data && response.data.movie) {
