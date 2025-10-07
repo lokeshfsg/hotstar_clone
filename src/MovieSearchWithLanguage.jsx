@@ -30,14 +30,14 @@ const MovieSearchWithLanguage = () => {
 
     try {
       // Decide which endpoint to call
-      let url = `http://localhost:5400/movies`;
+      let url = `https://animaxapp-new-2.onrender.com/movies`;
 
       if (title && selectedLanguage) {
-        url = `http://localhost:5400/getMovieByTitle/${title}`;
+        url = `https://animaxapp-new-2.onrender.com/getMovieByTitle/${title}`;
       } else if (title) {
         url = `http://localhost:5400/getMovieByTitle/${title}`;
       } else if (selectedLanguage) {
-        url = `http://localhost:5400/getMoviesByLanguage/${selectedLanguage}`;
+        url = `https://animaxapp-new-2.onrender.com/getMoviesByLanguage/${selectedLanguage}`;
       }
 
       const response = await axios.get(url);
@@ -65,7 +65,7 @@ const MovieSearchWithLanguage = () => {
   // Get all languages from the backend for dropdown
   const [allLanguages, setAllLanguages] = useState([]);
   useEffect(() => {
-    axios.get("http://localhost:5400/movies")
+    axios.get("https://animaxapp-new-2.onrender.com/movies")
       .then((response) => {
         let movieList = response.data.movieList || [];
         const langs = Array.from(new Set(movieList.map((movie) => movie.language))).filter(Boolean);
