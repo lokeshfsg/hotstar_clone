@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Ramayan",
+    "type": "epic",
+    "description": "The Ramayana is an ancient Indian epic poem that narrates the life of Rama, a prince of Ayodhya.",
+    "video": "video/bajarang.mp4",
+    "rating": 9
+  }
+]

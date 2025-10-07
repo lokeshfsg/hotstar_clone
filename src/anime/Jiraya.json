@@ -1,0 +1,10 @@
+[
+    {
+    "id": 8,
+    "name": "Naruto",
+    "type": "anime",
+    "description": "Naruto is a Japanese anime about a young ninja seeking recognition and aiming to become Hokage.",
+    "video": "/video",
+    "rating": 9.5
+  }
+]

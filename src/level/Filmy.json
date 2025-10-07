@@ -1,0 +1,151 @@
+{
+  "Action": [
+    {
+    "id": 1,
+    "name": "loki",
+    "type": "action",
+    "description": "Loki is an American television series created by Michael Waldron for the streaming service Disney+",
+    "img": "https://images.thedirect.com/media/article_full/loki-spider-man-doctor-strange-wandavision.jpg",
+    "alt": "Loki promotional poster",
+    "rating": 7
+  },
+   {
+    "id": 6,
+    "name": "Commando",
+    "type": "Action",
+    "description": "Karan Singh Dogra, a Para SF Captain in Indian Army, is captured by Chinese officials after his helicopter crashes during training.",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.fTzWtBHFQFNF0M54vg9tfAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "alt": "Commando movie poster",
+    "rating": 6
+  },
+  {
+    "id": 7,
+    "name": "Hellboy",
+    "type": "action",
+    "description": "Hellboy is a half-demon superhero who battles dark forces while struggling with his origins.",
+    "img": "https://tse3.mm.bing.net/th/id/OIP.m7E-mrDzPQgR1J0YDEhZDgHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "alt": "Hellboy movie image",
+    "rating": 8
+  },
+  {"id":16,
+        "name":"saaho",
+        "type":"action",
+        "description":"Saaho (transl. May Victory be Yours) is a 2019 Indian action thriller film directed by Sujeeth and produced by UV Creations and T-Series.[3] It was filmed simultaneously in Telugu and Hindi, stars Prabhas in the titular role, alongside Shraddha Kapoor, Chunky Pandey, Jackie Shroff, Arun Vijay and Neil Nitin Mukesh",
+        "img":"https://tse4.mm.bing.net/th/id/OIP.eE-rJgodzFraBVtnyK-CsgHaKk?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "rating":9
+    },
+    {
+        "id":18,
+        "name":"animal",
+        "type":"action",
+        "description":"Animal is a 2023 Indian Hindi-language action drama film co-written, directed and edited by Sandeep Reddy Vanga and produced by T-Series Films, Bhadrakali Pictures and Cine1 Studios",
+        "img":"https://cdn.zeebiz.com/sites/default/files/2023/12/05/271574-animalmovie.jpg",
+        "rating":9
+    }
+  ],
+  "Mythalogical": [
+    {
+    "id": 9,
+    "name": "Bahubali 2",
+    "type": "mythological",
+    "description": "Baahubali 2: The Conclusion is a 2017 Indian epic action film directed by S. S. Rajamouli, produced by Arka Media Works.",
+    "img": "https://th.bing.com/th/id/R.48e5e5c44b2ce5f1256f03ed713619f6?rik=aXu508okoAgOSQ&riu=http%3a%2f%2fwww.hdwallpapers.in%2fdownload%2fbaahubali_2_the_conclusion_5k-5120x2880.jpg&ehk=8nElv%2bbffKag0Yy9GzwmzddxPfZHB8JerfGTdjbfDP4%3d&risl=1&pid=ImgRaw&r=0",
+    "alt": "Baahubali 2 high-resolution poster",
+    "rating": 10
+  },
+  {
+        "id":15,
+        "name":"hanumaan",
+        "type":"mythalogical",
+        "description":"Hanu-Man (also marketed as HanuMan) is a 2024 Indian Telugu-language superhero film written and directed by Prasanth Varma and produced by K. Niranjan Reddy under Primeshow Entertainment",
+        "img":"https://i.ytimg.com/vi/etZ6PWOeXUY/maxresdefault.jpg",
+        "rating":10
+    },
+    {
+        "id":13,
+        "name":"mahabharat",
+        "type":"devotional",
+        "description":"The Mahābhārata (/məˌhɑːˈbɑːrətə, ˌmɑːhə-/ mə-HAH-BAR-ə-tə, MAH-hə-;[1][2][3][4] Sanskrit: महाभारतम्, IAST: Mahābhāratam, pronounced [mɐɦaːˈbʱaːrɐt̪ɐm]) is one of the two major Sanskrit epics of ancient India revered as Smriti texts in Hinduism, the other being the Rāmāyaṇa",
+        "img":"https://tse4.mm.bing.net/th/id/OIP.SQZwB7MO5id1FWReRaikKAHaLF?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "rating":10
+    },
+    {
+        "id":12,
+        "name":"ramayan",
+        "type":"devotional",
+        "description":"The Ramayana (/rɑːˈmɑːjənə/;[1][2] Sanskrit: रामायणम्, romanized: Rāmāyaṇam[3]), also known as Valmiki Ramayana, as traditionally attributed to Valmiki, is a smriti text (also described as a Sanskrit epic) from ancient India, one of the two important epics of Hinduism known as the Itihasas, the other being the Mahabharata.[4] The epic narrates the life of Rama, the seventh avatar of the Hindu deity Vishnu, who is a prince of Ayodhya in the kingdom of Kosala. ",
+        "img":"https://wallpapercave.com/wp/wp2633333.jpg",
+        "rating":10
+    }
+    
+  ],
+  "suspense": [
+    {
+    "id": 2,
+    "name": "Money Heist",
+    "type": "Suspense thriller",
+    "description": "Money Heist (Spanish: La casa de papel) is a Spanish heist crime drama television series created by Álex Pina",
+    "img": "https://images.wallpapersden.com/image/download/money-heist_a2ttbG2UmZqaraWkpJRnZWltrWdlaW0.jpg",
+    "alt": "Money Heist poster",
+    "rating": 8
+  },
+  {
+        "id":10,
+        "name":"cid",
+        "type":"suspense thriller",
+        "description":"CID is an Indian police procedural television series that premiered on Sony Entertainment Television on 21 January 1998",
+        "img":"https://www.themoviedb.org/t/p/w1066_and_h600_bestv2/sA1g2senxHcQwbjl9ObWvpWttU0.jpg",
+        "rating":6
+    },
+    {
+    "id": 4,
+    "name": "Game of Thrones",
+    "type": "Suspense thriller",
+    "description": "Game of Thrones is an American fantasy drama television series created by David Benioff and D. B. Weiss for HBO",
+    "img": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/05/Game-of-Thrones-Season-8-Finale-Cast-Iron-Throne.jpg",
+    "alt": "Game of Thrones finale image",
+    "rating": 9
+  },
+  {
+    "id": 3,
+    "name": "Mirzapur",
+    "type": "suspense thriller",
+    "description": "Mirzapur is an Indian action crime thriller streaming television series created for Amazon Prime Video, by Karan Anshuman.",
+    "img": "https://tse1.mm.bing.net/th/id/OIP.ycWaUQrmh0IOyBfCrj1G2wHaFw?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "alt": "Mirzapur poster",
+    "rating": 6
+  }
+  ],
+  "horror": [
+    {
+    "id": 5,
+    "name": "Stranger Things",
+    "type": "horror",
+    "description": "Stranger Things is an American television series created by the Duffer Brothers for Netflix.",
+    "img": "https://images.wallpapersden.com/image/download/stranger-things-hd-netflix-experience_bWlla2mUmZqaraWkpJRmbmdlrWZlbWU.jpg",
+    "alt": "Stranger Things promotional poster",
+    "rating": 7
+  }
+  ],
+  "comedy": [
+    {
+        "id":14,
+        "name":"tarak mehta",
+        "type":"comedy",
+        "description":"Tarak Janubhai Mehta (26 December 1929 – 1 March 2017) was an Indian columnist, humourist, writer and playwright who is best known for the column Duniya Ne Undha Chasma, and was a well-known figure in Gujarati theatre.[",
+        "img":"https://image.airtel.tv/SONYLIV_VOD/SONYLIV_VOD_TVSHOW_1700000084_SEASON_13/LANDSCAPE_169/tmkoc22_landscape_thumb.jpg",
+        "rating":6
+    }
+  ],
+  "romantic": [
+    {
+       "id":17,
+       "name":"radhe shyam",
+        "type":"romantic movie",
+        "description":"Radhe Shyam is a 2022 Indian period romantic fantasy Drama film written and directed by Radha Krishna Kumar. Produced by UV Creations and T-Series, the film was shot simultaneously in Telugu and Hindi languages and stars Prabhas and Pooja Hegde ",
+        "img":"https://www.uniquenewsonline.com/wp-content/uploads/2021/07/Radhe-Shyam-HD-Poster-768x1152.jpg",
+        "rating":7
+    }
+  ]
+
+}

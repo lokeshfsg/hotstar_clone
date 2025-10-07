@@ -1,0 +1,11 @@
+[
+  {
+    "id": 3,
+    "name": "Mirzapur",
+    "type": "crime thriller",
+    "description": "Mirzapur is an Indian action crime thriller streaming television series created for Amazon Prime Video, by Karan Anshuman.",
+    "video": "/video/mirzapur.mp4",
+    "alt": "Mirzapur poster",
+    "rating": 6
+  }
+]
