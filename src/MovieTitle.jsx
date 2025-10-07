@@ -10,7 +10,7 @@ const MovieByTitle = () => {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:5400/getMovieByTitle/${title}`)
+      .get(`https://animaxapp-new-2.onrender.com/getMovieByTitle/${title}`)
       .then((response) => {
         console.log("API Response:", response.data); // Debugging
         if (response.data && Array.isArray(response.data.movieList)) {
